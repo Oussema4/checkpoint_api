@@ -1,0 +1,5 @@
+.App {
+ text-align: center;
+}
+
+.hh{display: flex;flex-wrap: wrap;justify-content: space-between;}
